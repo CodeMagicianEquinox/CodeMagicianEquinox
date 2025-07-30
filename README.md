@@ -20,6 +20,6 @@
 ## 🔥 Featured Projects
 
 - 🐩 [Pet Salon](https://github.com/CodeMagicianEquinox/Pet-Salon) — Full CRUD SPA for managing pet appointments  
-- 🌡️ [Weather Dashboard](#) — Responsive dashboard using OpenWeather API
+- 🌡️ [Weather Dashboard](https://github.com/CodeMagicianEquinox/Weather_Dashboard#) — Responsive dashboard using OpenWeather API
 - 🏡 [Real Estate Landing Page](https://github.com/CodeMagicianEquinox/Real-Estate-main) — Responsive HTML/CSS project simulating a property listing site with contact form and adaptive layout
 
