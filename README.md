@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Tim
+# 🚀 Full-Stack Software Engineer | ⚙️ DevOps | 🔁 CI/CD | 🐳 Docker
 
 💻 Full-Stack Developer | JavaScript (ES6+ & JSON) • React • Python • Node.js • MongoDB  
 🔐 Dev with a cybersecurity edge — I build clean, secure, and scalable web apps
