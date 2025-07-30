@@ -1,4 +1,4 @@
-# Full-Stack Software Engineer | ⚙️ DevOps | 🔁 CI/CD | 🐳 Docker
+# 🖥️ Software Engineer | ⚙️ DevOps | 🔁 CI/CD | 🐳 Docker
 
 💻 Full-stack developer with a passion for clean code, scalable systems, and modern web architecture.
 
