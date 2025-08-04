@@ -23,6 +23,15 @@
     🔗[Live Demo](https://codemagicianequinox.github.io/Pet-Salon/)
 - 🌡️ [Weather Dashboard](https://github.com/CodeMagicianEquinox/Weather_Dashboard#) — Responsive dashboard using OpenWeather API  🔗[Live Demo](https://codemagicianequinox.github.io/Weather_Dashboard/)
 - 🏡 [Real Estate Page](https://github.com/CodeMagicianEquinox/Real-Estate) — HTML/CSS project simulating a property listing site with contact form 🔗[Live Demo](https://codemagicianequinox.github.io/Real-Estate/)
-- 
+
+---
+
+## QA Automation Labs
+
+A collection of hands-on testing labs using Python, Pytest, and Requests to demonstrate real-world QA automation skills.
+ 
+- 🧪 [QA-API-Test-Lab](https://github.com/yourusername/QA-API-Test-Lab) — Automated REST API testing using Pytest and Requests  
+🔗 [Live Demo](https://yourusername.github.io/QA-API-Test-Lab/) | ✅ CLI testing + web-based test report display
+
 
 
