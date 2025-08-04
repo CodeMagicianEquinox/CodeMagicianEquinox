@@ -26,7 +26,7 @@
 
 ---
 
-## 🧪 QA Automation Labs
+## 🧪 Quality Assurance (QA) Engineering & Automation Projects
 
 A collection of hands-on testing labs using Python, Pytest, and Requests to demonstrate real-world QA automation skills.
 
