@@ -30,8 +30,7 @@
 
 A collection of hands-on testing labs using Python, Pytest, and Requests to demonstrate real-world QA automation skills.
 
-🔹 [QA-API-Test-Lab](https://github.com/CodeMagicianEquinox/QA-API-Test-Lab) — REST API test suite with parametrized cases and browser-viewable output  
-🔗 [Live Demo](https://codemagicianequinox.github.io/QA-API-Test-Lab/)
+🔹 [QA-API-Test-Lab](https://github.com/CodeMagicianEquinox/QA-API-Test-Lab) — REST API test suite with parametrized cases and browser-viewable output 🔗 [Live Demo](https://codemagicianequinox.github.io/QA-API-Test-Lab/)
 
 
 
