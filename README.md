@@ -26,12 +26,13 @@
 
 ---
 
-## QA Automation Labs
+## 🧪 QA Automation Labs
 
 A collection of hands-on testing labs using Python, Pytest, and Requests to demonstrate real-world QA automation skills.
- 
-- 🧪 [QA-API-Test-Lab](https://github.com/yourusername/QA-API-Test-Lab) — Automated REST API testing using Pytest and Requests  
-🔗 [Live Demo](https://yourusername.github.io/QA-API-Test-Lab/) | ✅ CLI testing + web-based test report display
+
+🔹 [QA-API-Test-Lab](https://github.com/CodeMagicianEquinox/QA-API-Test-Lab) — REST API test suite with parametrized cases and browser-viewable output  
+🔗 [Live Demo](https://codemagicianequinox.github.io/QA-API-Test-Lab/)
+
 
 
 
